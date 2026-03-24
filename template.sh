@@ -17,6 +17,8 @@ mkdir -p logs
 touch app.py
 touch requirements.txt
 touch .env
+touch research/trials.py
+
 
 # Source files
 touch src/__init__.py
